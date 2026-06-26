@@ -39,6 +39,11 @@ full-body cinematic portrait of a Han-dynasty prison jailer, a coarse hardened m
 
 ## 二、第一部分镜 · 场景提示词
 
+### 段·序｜科技感开场·Animus 数据重建（序-1~4）
+```
+an Assassin's Creed Animus-style sci-fi opening, the ancient Han-dynasty capital Chang'an reconstructing itself out of millions of glowing cyan particles and triangular wireframe mesh in a black digital void, holographic UI readout glowing in cold blue reading the year "9 A.D. CHANG'AN", scan lines and subtle glitch artifacts, data streams, a wireframe city of palace towers and walls materializing and snapping into photoreal reality with falling snow, cinematic still in the style of an Assassin's Creed announcement trailer, Digic Pictures photoreal CGI, dramatic volumetric lighting, anamorphic lens flare, deep blacks with glowing cyan and a touch of crimson, fine film grain, epic and ominous mood --ar 21:9 --style raw --v 6.1
+```
+
 ### 段一-明｜长安登基·夹道欢迎（镜1–2）
 ```
 sweeping cinematic establishing shot of the Han-dynasty capital Chang'an under fresh snow, towering palace gate towers and long walls, rows of red banners, vast crowds of commoners in hemp robes kneeling along a wide avenue strewn with yellow earth, dawn light through snow haze, epic scale, cinematic still in the style of an Assassin's Creed announcement trailer, Digic Pictures photoreal CGI, dramatic chiaroscuro lighting, volumetric god rays, shallow depth of field, anamorphic lens flare, muted desaturated palette of deep blacks and cold greys with a single accent of crimson and gold, falling snow, slow-motion epic atmosphere, fine film grain, ominous and solemn mood --ar 21:9 --style raw --v 6.1
