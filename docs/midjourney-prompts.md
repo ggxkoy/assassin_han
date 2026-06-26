@@ -30,6 +30,11 @@ full-body cinematic portrait of Wang Shun, a Han-dynasty marquis and court offic
 full-body cinematic portrait of Du Wu, a poor Chinese commoner laborer from Shangluo, 9 AD, late twenties, gaunt and frightened, weathered sun-darkened face, red clay dirt under cracked fingernails; wearing a coarse undyed hemp short jacket duanhe and rough trousers, a simple cloth head-wrap, straw sandals; cradling a small chipped jade fragment in his hands; snow and prison straw around him, cinematic still in the style of an Assassin's Creed announcement trailer, Digic Pictures photoreal CGI, dramatic chiaroscuro lighting, volumetric god rays, shallow depth of field, muted desaturated palette of deep blacks and cold greys with a single accent of crimson, falling snow, slow-motion epic atmosphere, fine film grain, ominous and solemn mood --ar 2:3 --style raw --v 6.1
 ```
 
+### 刺客 · 兄弟会（暂未具名）
+```
+full-body cinematic portrait of an Assassin Brotherhood member in Western Han China, 9 AD, a lithe hooded figure shrouded in a deep grey-and-white hooded robe with wrapped forearms and a concealed wrist hidden-blade gauntlet, dark leather straps, cloth face-wrap, agile and dangerous; perched in a crouch on a snowy palace rooftop ridge at night, the iconic Assassin hooded silhouette; period-accurate Han fabrics rather than European armor, cinematic still in the style of an Assassin's Creed announcement trailer, Digic Pictures photoreal CGI, dramatic chiaroscuro lighting, volumetric moonlight, shallow depth of field, muted desaturated palette of deep blacks and cold greys with a single accent of crimson, falling snow, slow-motion epic atmosphere, fine film grain, ominous and solemn mood --ar 2:3 --style raw --v 6.1
+```
+
 ### 狱卒 · 大牢看守
 ```
 full-body cinematic portrait of a Han-dynasty prison jailer, a coarse hardened man in his forties with a cold tempting grin; wearing a dark padded guard's tunic with leather straps and cloth-wrapped shins, a bronze ring of heavy keys at his belt and a single-edged dao blade in hand; standing in torchlight before iron prison bars, cinematic still in the style of an Assassin's Creed announcement trailer, Digic Pictures photoreal CGI, dramatic chiaroscuro lighting, volumetric light, shallow depth of field, muted desaturated palette of deep blacks and cold greys with a single accent of crimson, slow-motion epic atmosphere, fine film grain, ominous and solemn mood --ar 2:3 --style raw --v 6.1
@@ -62,6 +67,16 @@ low-angle epic shot of emperor Wang Mang in black-and-crimson mianfu coronation 
 ### 段二-明｜杀子闪回（镜10）
 ```
 a cold memory flashback inside a candlelit Han palace chamber, a younger emperor Wang Mang with an utterly impassive face handing a cup of poisoned wine to his own son, the young man taking it in both hands and collapsing, the father unmoved, harsh chiaroscuro, deep shadows, sorrowful and ruthless, cinematic still in the style of an Assassin's Creed announcement trailer, Digic Pictures photoreal CGI, dramatic chiaroscuro lighting, shallow depth of field, muted desaturated palette of deep blacks and cold greys with a single accent of crimson, slow-motion epic atmosphere, fine film grain, ominous and solemn mood --ar 21:9 --style raw --v 6.1
+```
+
+### 段·暗·影｜刺客跑酷潜入（刺-1~3）
+```
+a hooded Han-dynasty Assassin sprinting and free-running across icy snow-covered palace rooftops at night, leaping between eaves and vaulting over carved beams, snow spraying off the tiles, dynamic motion blur, then dropping from a rafter onto a patrolling guard with a flashing wrist hidden-blade silent takedown, the iconic hooded silhouette, cinematic still in the style of an Assassin's Creed announcement trailer, Digic Pictures photoreal CGI, dramatic chiaroscuro lighting, volumetric moonlight, anamorphic lens flare, muted desaturated palette of deep blacks and cold greys with a single accent of crimson, falling snow, slow-motion epic atmosphere, fine film grain, ominous and solemn mood --ar 21:9 --style raw --v 6.1
+```
+
+### 段·暗·影｜信仰之跃 Leap of Faith（刺-5）
+```
+an epic wide low-angle shot of a hooded Han-dynasty Assassin performing the iconic Leap of Faith, diving arms-outstretched from the very top of a tall snowy palace tower at night, robe spread like eagle wings, plunging toward a cart of straw far below, dramatic vertical composition, falling snow and moonlight, cinematic still in the style of an Assassin's Creed announcement trailer, Digic Pictures photoreal CGI, dramatic chiaroscuro lighting, volumetric god rays, anamorphic lens flare, muted desaturated palette of deep blacks and cold greys with a single accent of crimson, slow-motion epic atmosphere, fine film grain, ominous and solemn mood --ar 21:9 --style raw --v 6.1
 ```
 
 ### 段三-暗｜暖阁索玺·太后之怒（镜14–17）
@@ -98,6 +113,6 @@ a cold stone Han-dynasty prison crowded with ragged prisoners behind iron bars, 
 
 ## 用法提示
 
-- **人物一致性**：先用上面 5 个角色设定各出一张满意的，拿到图片 URL 后，在分镜提示词末尾加 `--cref <url> --cw 80`，让王莽/杜吴等在不同镜头里长相一致。
+- **人物一致性**：先用上面 6 个角色设定各出一张满意的，拿到图片 URL 后，在分镜提示词末尾加 `--cref <url> --cw 80`，让王莽/杜吴/刺客等在不同镜头里长相一致。
 - **先定关键帧**：建议先跑「段四·推开王舜·玉玺穿过崩角」和「段二·登坛受贺」，定下整体色调质感，再批量跑其余镜头。
 - **防服饰穿越**：若出现清/明式错误（马褂、旗装、补服），在末尾追加 `--no Qing dynasty, Ming dynasty, manchu, fantasy hanfu`。
