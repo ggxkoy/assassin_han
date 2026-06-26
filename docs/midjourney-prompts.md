@@ -54,9 +54,9 @@ an Assassin's Creed Animus-style sci-fi opening, the ancient Han-dynasty capital
 sweeping cinematic establishing shot of the Han-dynasty capital Chang'an under fresh snow, towering palace gate towers and long walls, rows of red banners, vast crowds of commoners in hemp robes kneeling along a wide avenue strewn with yellow earth, dawn light through snow haze, epic scale, cinematic still in the style of an Assassin's Creed announcement trailer, Digic Pictures photoreal CGI, dramatic chiaroscuro lighting, volumetric god rays, shallow depth of field, anamorphic lens flare, muted desaturated palette of deep blacks and cold greys with a single accent of crimson and gold, falling snow, slow-motion epic atmosphere, fine film grain, ominous and solemn mood --ar 21:9 --style raw --v 6.1
 ```
 
-### 段一-暗｜潜入长乐宫（镜4–6）
+### 段一-暗｜杜吴刺杀仆从·混入人群（镜4–6）
 ```
-a line of Han soldiers in cloth-wrapped armor led by a stern official slipping silently through a small side gate of a snowbound palace at dusk, hushed and furtive, snow on their shoulders, a frightened ragged commoner laborer hunched at the rear, deep shadows, cold blue tones, cinematic still in the style of an Assassin's Creed announcement trailer, Digic Pictures photoreal CGI, dramatic chiaroscuro lighting, volumetric god rays, shallow depth of field, muted desaturated palette of deep blacks and cold greys with a single accent of crimson, falling snow, slow-motion epic atmosphere, fine film grain, ominous and solemn mood --ar 21:9 --style raw --v 6.1
+a desperate ragged Han-dynasty commoner ambushing and clumsily, brutally stabbing a straggling servant to death against a snowy palace wall in a dim side alley, his hands shaking, blood mixing with red clay under his nails, then stripping the servant's livery and pulling it on, head down, blending into a cheering crowd in the street, social-stealth blend-in, amateur and ruthless in contrast to a trained assassin, deep shadows, cold blue tones, cinematic still in the style of an Assassin's Creed announcement trailer, Digic Pictures photoreal CGI, dramatic chiaroscuro lighting, volumetric god rays, shallow depth of field, muted desaturated palette of deep blacks and cold greys with a single accent of crimson, falling snow, slow-motion epic atmosphere, fine film grain, ominous and solemn mood --ar 21:9 --style raw --v 6.1
 ```
 
 ### 段二-明｜登坛受贺 + 眼神特写（镜7–9）
