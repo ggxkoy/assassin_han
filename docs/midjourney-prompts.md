@@ -30,6 +30,11 @@ full-body cinematic portrait of Wang Shun, a Han-dynasty marquis and court offic
 full-body cinematic portrait of Du Wu, a poor Chinese commoner laborer from Shangluo, 9 AD, late twenties, gaunt and frightened, weathered sun-darkened face, red clay dirt under cracked fingernails; wearing a coarse undyed hemp short jacket duanhe and rough trousers, a simple cloth head-wrap, straw sandals; cradling a small chipped jade fragment in his hands; snow and prison straw around him, cinematic still in the style of an Assassin's Creed announcement trailer, Digic Pictures photoreal CGI, dramatic chiaroscuro lighting, volumetric god rays, shallow depth of field, muted desaturated palette of deep blacks and cold greys with a single accent of crimson, falling snow, slow-motion epic atmosphere, fine film grain, ominous and solemn mood --ar 2:3 --style raw --v 6.1
 ```
 
+### 狱卒 · 大牢看守
+```
+full-body cinematic portrait of a Han-dynasty prison jailer, a coarse hardened man in his forties with a cold tempting grin; wearing a dark padded guard's tunic with leather straps and cloth-wrapped shins, a bronze ring of heavy keys at his belt and a single-edged dao blade in hand; standing in torchlight before iron prison bars, cinematic still in the style of an Assassin's Creed announcement trailer, Digic Pictures photoreal CGI, dramatic chiaroscuro lighting, volumetric light, shallow depth of field, muted desaturated palette of deep blacks and cold greys with a single accent of crimson, slow-motion epic atmosphere, fine film grain, ominous and solemn mood --ar 2:3 --style raw --v 6.1
+```
+
 ---
 
 ## 二、第一部分镜 · 场景提示词
@@ -49,9 +54,9 @@ a line of Han soldiers in cloth-wrapped armor led by a stern official slipping s
 low-angle epic shot of emperor Wang Mang in black-and-crimson mianfu coronation robes ascending a high palace altar, rows of kneeling officials in dark robes below, twelve strings of jade beads veiling his unnervingly calm all-knowing eyes, snow drifting down, banners, godlight, cinematic still in the style of an Assassin's Creed announcement trailer, Digic Pictures photoreal CGI, dramatic chiaroscuro lighting, volumetric god rays, shallow depth of field, anamorphic lens flare, muted desaturated palette of deep blacks and cold greys with a single accent of crimson and gold, falling snow, slow-motion epic atmosphere, fine film grain, ominous and solemn mood --ar 21:9 --style raw --v 6.1
 ```
 
-### 段二-明｜时间旅行「漏点」（镜10）
+### 段二-明｜杀子闪回（镜10）
 ```
-surreal half-second double-exposure, the reflection of a modern museum glass display case with cold white spotlights and a small label card flickering across the eyes of a Han-dynasty emperor, dreamlike anachronistic glitch, ghostly overlay, unsettling, cinematic still in the style of an Assassin's Creed announcement trailer, Digic Pictures photoreal CGI, dramatic chiaroscuro lighting, shallow depth of field, muted desaturated palette of deep blacks and cold greys with a single accent of crimson, slow-motion epic atmosphere, fine film grain, ominous and solemn mood --ar 21:9 --style raw --v 6.1
+a cold memory flashback inside a candlelit Han palace chamber, a younger emperor Wang Mang with an utterly impassive face handing a cup of poisoned wine to his own son, the young man taking it in both hands and collapsing, the father unmoved, harsh chiaroscuro, deep shadows, sorrowful and ruthless, cinematic still in the style of an Assassin's Creed announcement trailer, Digic Pictures photoreal CGI, dramatic chiaroscuro lighting, shallow depth of field, muted desaturated palette of deep blacks and cold greys with a single accent of crimson, slow-motion epic atmosphere, fine film grain, ominous and solemn mood --ar 21:9 --style raw --v 6.1
 ```
 
 ### 段三-暗｜暖阁索玺·太后之怒（镜14–17）
@@ -59,9 +64,9 @@ surreal half-second double-exposure, the reflection of a modern museum glass dis
 inside a dim warm palace chamber lit by oil lamps, an elderly Grand Empress Dowager turning in fury toward a kneeling official, clutching a black lacquered seal box, tears and rage on her aged face, a frightened laborer half-seen through the ajar door, candle flames, tense, cinematic still in the style of an Assassin's Creed announcement trailer, Digic Pictures photoreal CGI, dramatic chiaroscuro lighting, volumetric light, shallow depth of field, muted desaturated palette of deep blacks and cold greys with a single accent of crimson and gold, slow-motion epic atmosphere, fine film grain, ominous and solemn mood --ar 21:9 --style raw --v 6.1
 ```
 
-### 段四-高潮｜掷玺崩角·慢镜（镜19–24）
+### 段四-高潮｜推开王舜·玉玺穿过崩角·慢镜（镜19–24）
 ```
-extreme slow-motion close-up of an ancient ornate jade imperial seal striking a polished golden-brick palace floor, one corner shattering off, jade fragments and a flare of dying mystical light bursting out, faint glowing seal-script, dramatic and tragic, cinematic still in the style of an Assassin's Creed announcement trailer, Digic Pictures photoreal CGI, dramatic chiaroscuro lighting, volumetric god rays, shallow depth of field, anamorphic lens flare, muted desaturated palette of deep blacks and cold greys with a single accent of crimson and gold, slow-motion epic atmosphere, fine film grain, ominous and solemn mood --ar 21:9 --style raw --v 6.1
+extreme slow-motion in a dim palace chamber, a ragged commoner shoving a court official aside to protect him, and an ancient ornate jade imperial seal flying through the empty gap between the two sprawling figures, then striking a polished golden-brick floor with one corner shattering off, jade fragments and a flare of dying mystical light, faint glowing seal-script, tragic irony, cinematic still in the style of an Assassin's Creed announcement trailer, Digic Pictures photoreal CGI, dramatic chiaroscuro lighting, volumetric god rays, shallow depth of field, anamorphic lens flare, muted desaturated palette of deep blacks and cold greys with a single accent of crimson and gold, slow-motion epic atmosphere, fine film grain, ominous and solemn mood --ar 21:9 --style raw --v 6.1
 ```
 
 ### 段四-明｜顶点凝固（镜18 / 25）
@@ -69,20 +74,25 @@ extreme slow-motion close-up of an ancient ornate jade imperial seal striking a 
 an emperor in mianfu robes on a high altar throwing his arms open to a roaring snow-filled crowd at the peak of triumph, his exultant smile freezing into a flicker of private dread, jade beads swaying, backlit, slow-motion, cinematic still in the style of an Assassin's Creed announcement trailer, Digic Pictures photoreal CGI, dramatic chiaroscuro lighting, volumetric god rays, shallow depth of field, anamorphic lens flare, muted desaturated palette of deep blacks and cold greys with a single accent of crimson and gold, falling snow, slow-motion epic atmosphere, fine film grain, ominous and solemn mood --ar 21:9 --style raw --v 6.1
 ```
 
-### 段五-收束｜独捧碎玉（镜30–33）
+### 段五·宫中｜科技之物（镜30–31）
 ```
-an emperor alone at night in a vast candlelit hall, cradling a chipped jade imperial seal in both hands, the faint glow of its mystical inscriptions fading like a dying heartbeat, sorrow and dread on his unveiled face, distant muffled banquet music, deep shadows, cinematic still in the style of an Assassin's Creed announcement trailer, Digic Pictures photoreal CGI, dramatic chiaroscuro lighting, volumetric light, shallow depth of field, muted desaturated palette of deep blacks and cold greys with a single accent of crimson and gold, slow-motion epic atmosphere, fine film grain, ominous and solemn mood --ar 21:9 --style raw --v 6.1
+an emperor alone at night in a secret palace workshop chamber, surrounded by anachronistic precision instruments crafted from ancient bronze — a bronze sliding vernier caliper, interlocking bronze gear trains, an armillary-sphere-like rotating mechanism, finely graduated bronze rulers laid out on the table, candlelight glinting on metal, obsessive and uncanny, hinting he is a man out of his time, cinematic still in the style of an Assassin's Creed announcement trailer, Digic Pictures photoreal CGI, dramatic chiaroscuro lighting, volumetric light, shallow depth of field, muted desaturated palette of deep blacks and cold greys with a single accent of crimson and gold, slow-motion epic atmosphere, fine film grain, ominous and solemn mood --ar 21:9 --style raw --v 6.1
 ```
 
-### 段五-钩子｜诏狱中的杜吴（镜35）
+### 段五-收束｜独捧碎玉（镜32–34）
 ```
-a ragged commoner curled in the straw of a cold stone Han-dynasty prison cell, a thin sliver of snow-light falling through an iron grate, staring at his bleeding scratched hand smeared with red clay, bleak and lonely, cold blue chiaroscuro, cinematic still in the style of an Assassin's Creed announcement trailer, Digic Pictures photoreal CGI, dramatic chiaroscuro lighting, volumetric god rays, shallow depth of field, muted desaturated palette of deep blacks and cold greys with a single accent of crimson, slow-motion epic atmosphere, fine film grain, ominous and solemn mood --ar 21:9 --style raw --v 6.1
+an emperor alone at night in a candlelit chamber, cradling a chipped jade imperial seal in both hands, the faint glow of its mystical inscriptions fading like a dying heartbeat, sorrow and dread on his unveiled face, distant muffled banquet music, deep shadows, cinematic still in the style of an Assassin's Creed announcement trailer, Digic Pictures photoreal CGI, dramatic chiaroscuro lighting, volumetric light, shallow depth of field, muted desaturated palette of deep blacks and cold greys with a single accent of crimson and gold, slow-motion epic atmosphere, fine film grain, ominous and solemn mood --ar 21:9 --style raw --v 6.1
+```
+
+### 段五-钩子｜大牢·狱卒悬赏（镜35–38）
+```
+a cold stone Han-dynasty prison crowded with ragged prisoners behind iron bars, a jailer with keys and a blade standing at the bars announcing a bounty with a tempting cold grin, a gaunt commoner in the corner slowly raising his head at the name, a thin sliver of snow-light through a grate, bleak and tense, cold blue chiaroscuro, cinematic still in the style of an Assassin's Creed announcement trailer, Digic Pictures photoreal CGI, dramatic chiaroscuro lighting, volumetric god rays, shallow depth of field, muted desaturated palette of deep blacks and cold greys with a single accent of crimson, slow-motion epic atmosphere, fine film grain, ominous and solemn mood --ar 21:9 --style raw --v 6.1
 ```
 
 ---
 
 ## 用法提示
 
-- **人物一致性**：先用上面 4 个角色设定各出一张满意的，拿到图片 URL 后，在分镜提示词末尾加 `--cref <url> --cw 80`，让王莽/杜吴等在不同镜头里长相一致。
-- **先定关键帧**：建议先跑「段四·掷玺崩角慢镜」和「段二·登坛受贺」，定下整体色调质感，再批量跑其余镜头。
+- **人物一致性**：先用上面 5 个角色设定各出一张满意的，拿到图片 URL 后，在分镜提示词末尾加 `--cref <url> --cw 80`，让王莽/杜吴等在不同镜头里长相一致。
+- **先定关键帧**：建议先跑「段四·推开王舜·玉玺穿过崩角」和「段二·登坛受贺」，定下整体色调质感，再批量跑其余镜头。
 - **防服饰穿越**：若出现清/明式错误（马褂、旗装、补服），在末尾追加 `--no Qing dynasty, Ming dynasty, manchu, fantasy hanfu`。
