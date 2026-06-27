@@ -72,6 +72,47 @@ a cold stone Han-dynasty prison crowded with ragged prisoners behind iron bars, 
 
 ---
 
+## 场景提示词 · 备选批次 B（换一种写法 / 镜头语言再试镜）
+
+> 同样的关键镜头，换更具体的机位、镜头、运动与构图描述再跑一批，挑更对味的。杜吴出现处沿用新设定（瘦削、眉疤、暗红腰封）。
+
+### B1｜开场·Animus 数据重建（序）
+```
+macro-to-aerial sci-fi opening, camera pulling back through a black void as the ancient city of Chang'an self-assembles from streaming cyan data particles and triangular wireframe, a glowing holographic UI label "9 A.D. — CHANG'AN" flickering with scanline glitches, the wireframe skinning into photoreal snowy palaces in a final glitch-snap, anamorphic, teal-on-black with a crimson spark, in the style of an Assassin's Creed Animus cinematic by Digic Pictures, photoreal CGI, volumetric haze, film grain --ar 21:9 --style raw --v 6.1
+```
+
+### B2｜长安登基·万民夹道（镜1–2）
+```
+god's-eye crane shot descending over snow-covered Han-dynasty Chang'an at dawn, an immense crowd kneeling along a wide yellow-earth avenue lined with crimson banners, breath-fog rising, a tiny imperial procession far below, vast scale and grandeur, in the style of an Assassin's Creed announcement trailer by Digic Pictures, photoreal CGI, volumetric dawn light, anamorphic, desaturated cold palette with crimson banners, falling snow, film grain --ar 21:9 --style raw --v 6.1
+```
+
+### B3｜杜吴·飞檐走壁（镜5 / 5b）
+```
+a dynamic tracking shot chasing a lean wolfish assassin (thin brow scar, half-up topknot, dark charcoal garb with a faded crimson sash) as he runs weightlessly across snowy palace rooftops at dusk, wuxia qinggong, vaulting a wide gap with a wall-kick and a mid-air twist, snow flicking off the tiles, motion blur and afterimage, a distinctive charismatic lead, no hood, in the style of an Assassin's Creed trailer by Digic Pictures, photoreal CGI, dramatic side light, anamorphic, cold palette with crimson accent, film grain --ar 21:9 --style raw --v 6.1 --no hood, hidden blade, ninja, muscular bodybuilder, generic extra
+```
+
+### B4｜杜吴·匕首刺杀（镜5c）
+```
+a tight low-angle shot in a snowy alley shadow, a lean scarred assassin pressing in behind a straggling palace retainer and drawing a curved bronze dagger across his throat in one clean silent motion, the assassin's crimson sash the only color, breath-fog, restrained and brutal, a Shiji-style Chinese assassin not a ninja, in the style of an Assassin's Creed trailer by Digic Pictures, photoreal CGI, chiaroscuro, anamorphic, cold palette with crimson accent, falling snow, film grain --ar 21:9 --style raw --v 6.1 --no hood, hidden blade, ninja
+```
+
+### B5｜崩玺·慢镜（镜19–24）
+```
+hyper slow-motion macro, an ornate jade imperial seal tumbling through the air between two falling figures and striking a polished golden-brick floor, one corner exploding into jade shards and a dying flare of glowing seal-script, the lean assassin's grasping fingertips just missing it, tragic irony frozen in time, in the style of an Assassin's Creed trailer by Digic Pictures, photoreal CGI, dramatic rim light, anamorphic, deep blacks with gold and crimson, film grain --ar 21:9 --style raw --v 6.1
+```
+
+### B6｜王莽·碎玉与科技之物（镜30–34）
+```
+an intimate candlelit night interior, the Xin emperor alone at a table cradling a chipped jade seal whose inner glow is dying, surrounded by anachronistic bronze instruments — a sliding vernier caliper, interlocking gears, graduated rulers — uncanny and ominous, his unveiled face full of dread, in the style of an Assassin's Creed trailer by Digic Pictures, photoreal CGI, warm candle glow against deep shadow, shallow focus, anamorphic, crimson-gold accents, film grain --ar 21:9 --style raw --v 6.1
+```
+
+### B7｜大牢·狱卒悬赏（镜35–38）
+```
+a cold torchlit Han-dynasty prison, a jailer at the iron bars announcing a bounty with a sly grin to a cell crowded with ragged prisoners, the lean scarred protagonist in the shadowed corner slowly lifting his head at a name, a thin shaft of snow-light from a grate, tense and bleak, in the style of an Assassin's Creed trailer by Digic Pictures, photoreal CGI, chiaroscuro torchlight, anamorphic, cold palette with a crimson ember, film grain --ar 21:9 --style raw --v 6.1
+```
+
+---
+
 ## 用法提示
 
 - **人物一致性**：先到 `midjourney-characters.md` 跑各角色「三视图」，挑满意的拿到图片 URL，在本档分镜提示词末尾加 `--cref <url> --cw 90`，让王莽/杜吴等在不同镜头里长相一致。

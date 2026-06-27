@@ -59,19 +59,21 @@ action pose model sheet of Wang Shun in official robes, full-body poses: bowing 
 
 ---
 
-## 杜吴 · 商洛刺客（《史记·刺客列传》一脉）
+## 杜吴 · 商洛刺客（《史记·刺客列传》一脉 · 本片主角）
+
+> **设计要点（针对"太像路人"）**：他是**主角**，要有强记忆点——**瘦削狼相、非健美壮汉**；眉骨一道旧疤、锐利逼人的眼神；半束的乱发、几缕散落；一抹**暗红**作为标志色（呼应血与玺），不对称的肩披；一柄独特的弯身青铜匕首。整体比官兵/群演更利落、更危险、更有"侠"的孤峭气。
 
 **三视图 Turnaround**
 ```
-full-body character turnaround model sheet of Du Wu, a Chinese assassin from Shangluo in the tradition of the Shiji "Assassins" (like Jing Ke and Nie Zheng), 9 AD, late twenties, lean and sinewy, sun-darkened resolute face; front view, side view and back view in a row, neutral stance; wearing close-fitting dark hemp short-robe combat garb (duanda) with a cloth waist sash, bound sleeves and shins, cloth shoes for rooftop agility, NO hood and NO European armor; a short bronze dagger (bishou) at his waist; character design reference sheet, model sheet, photoreal cinematic concept art in an Assassin's Creed art-bible style, Digic Pictures realism, clean even studio lighting, plain neutral grey background, highly detailed, period-accurate --ar 16:9 --style raw --v 6.1 --no hood, hidden blade, ninja, european assassin
+full-body character turnaround model sheet of Du Wu, the lean wolfish PROTAGONIST assassin of the film, from Shangluo in the Shiji "Assassins" tradition (like Jing Ke), 9 AD, late twenties — NOT muscle-bound, wiry and sinewy with a weathered hard handsome face, a thin pale scar through one eyebrow, piercing intense eyes, a rough half-up topknot with loose stray strands; front view, side view and back view in a row, neutral stance; wearing close-fitting dark charcoal-indigo hemp combat garb (duanda) with tightly bound forearms and shins, a single faded CRIMSON sash as his signature color accent, a worn asymmetric shoulder wrap, cloth shoes for rooftop agility; a distinctive curved bronze dagger (bishou) at his waist; a memorable iconic lead-character silhouette, distinctive and charismatic, NOT a generic background extra, NO hood and NO European armor; character design reference sheet, model sheet, photoreal cinematic concept art in an Assassin's Creed art-bible style, Digic Pictures realism, clean even studio lighting, plain neutral grey background, highly detailed, period-accurate --ar 16:9 --style raw --v 6.1 --no hood, hidden blade, ninja, european assassin, muscular bodybuilder, generic extra, bulky armor
 ```
 **表情设定 Expressions**
 ```
-expression model sheet of Du Wu, a lean Chinese dagger-assassin; a grid of head-and-shoulders close-ups: blade-sharp focus while watching a target, grim do-or-die resolve, silent killing calm, stunned disbelief, hollow despair behind bars; consistent face, character design expression sheet, photoreal cinematic concept art, Digic Pictures realism, even lighting, plain neutral grey background --ar 16:9 --style raw --v 6.1
+expression model sheet of Du Wu, the lean scarred PROTAGONIST dagger-assassin, a distinctive charismatic weathered face with a thin scar through one eyebrow and intense piercing eyes, a rough half-up topknot; a grid of head-and-shoulders close-ups: blade-sharp focus while watching a target, grim do-or-die resolve, silent killing calm, stunned disbelief, hollow despair behind bars; consistent distinctive lead face, NOT a generic extra, character design expression sheet, photoreal cinematic concept art, Digic Pictures realism, even lighting, plain neutral grey background --ar 16:9 --style raw --v 6.1 --no generic extra
 ```
 **动作设定 Poses（武侠轻功 + 匕首）**
 ```
-action pose model sheet of Du Wu, a wuxia dagger-assassin in dark hemp combat garb, full-body dynamic poses: crouched watching from a rooftop ridge, free-running weightlessly across eaves (qinggong), a mid-air somersault with a light wall-kick, a silent throat-cut with a short bronze dagger, lunging with an outstretched grasping hand, curled in a prison corner; traditional Chinese martial-arts lightness skill, NO hood, consistent character design, pose sheet, photoreal cinematic concept art, Digic Pictures realism, even lighting, plain neutral grey background --ar 21:9 --style raw --v 6.1 --no hood, hidden blade, ninja, european assassin
+action pose model sheet of Du Wu, the lean wolfish PROTAGONIST wuxia dagger-assassin in dark charcoal-indigo combat garb with a faded crimson sash, wiry not bulky, full-body dynamic poses: crouched watching from a rooftop ridge, free-running weightlessly across eaves (qinggong), a mid-air somersault with a light wall-kick, a silent throat-cut with a curved bronze dagger, lunging with an outstretched grasping hand, curled in a prison corner; traditional Chinese martial-arts lightness skill, distinctive charismatic lead, NO hood, consistent character design, pose sheet, photoreal cinematic concept art, Digic Pictures realism, even lighting, plain neutral grey background --ar 21:9 --style raw --v 6.1 --no hood, hidden blade, ninja, european assassin, muscular bodybuilder, generic extra
 ```
 
 ---
@@ -98,4 +100,5 @@ action pose model sheet of a Han prison jailer, full-body poses: standing at iro
 - **先三视图，再锁定**：每个角色先跑「三视图」，挑一张满意的拿到图片 URL，给该角色的表情/动作/以及 `midjourney-scenes.md` 里的场景分镜统一加 `--cref <url> --cw 90`。
 - **设计稿用平光**：三视图/表情/动作用均匀光 + 中性灰底，方便看清形制；正式分镜出图时再换成戏剧光（见场景档）。
 - **防服饰穿越**：若出现清/明式错误，追加 `--no Qing dynasty, Ming dynasty, manchu, fantasy hanfu`。
+- **避免"路人脸"**：主要角色都要有记忆点，可在提示词加 `distinctive memorable lead character, hero design, not a generic extra`，并 `--no generic extra, background character`。杜吴尤其要瘦削、有疤、暗红配色，区别于敦实的官兵群演。
 - **杜吴**：务必保持《史记·刺客列传》古典刺客形象（匕首、短打、轻功），已在提示词内置 `--no hood, hidden blade, ninja, european assassin`。
