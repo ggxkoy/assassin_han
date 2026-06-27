@@ -9,13 +9,14 @@
 | 文件 | 内容 |
 | --- | --- |
 | [`docs/assassins-creed-story.md`](docs/assassins-creed-story.md) | 主文档：世界观、人物，**第一部·玉玺**与**第二部·刺杀刘秀**的分镜脚本，及后续规划。 |
-| [`docs/midjourney-prompts.md`](docs/midjourney-prompts.md) | 第一部的 Midjourney 即贴提示词（角色设定 + 逐场景分镜），刺客信条宣传片风格、西汉/新朝服饰考据。 |
+| [`docs/midjourney-characters.md`](docs/midjourney-characters.md) | 角色设定：王莽/王政君/王舜/杜吴/狱卒的 **三视图 + 表情设定 + 动作设定**（Midjourney）。 |
+| [`docs/midjourney-scenes.md`](docs/midjourney-scenes.md) | 第一部逐场景分镜的 Midjourney 即贴提示词，刺客信条宣传片风格、西汉/新朝服饰考据。 |
 
 ## 已完成
 
 - **第一部·玉玺（公元 9 年）** — 一明一暗双线分镜：明线王莽登基受贺，暗线王舜携杜吴入长乐宫索玺，杜吴阴差阳错崩坏玉玺、下狱。
 - **第二部·刺杀刘秀** — 以「刘秀的悬赏令」引出：明线举国通缉指错方向，暗线王莽凭未来记忆锁定真刘秀、密遣杜吴暗杀。
-- **第一部 Midjourney 提示词** — 4 个角色设定 + 9 条分镜，复制即可出图。
+- **第一部 Midjourney 提示词** — 5 个角色设定（三视图/表情/动作）+ 逐场景分镜，复制即可出图。
 
 ## 后续规划（待写）
 

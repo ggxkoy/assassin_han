@@ -209,7 +209,7 @@
 
 ## 配图索引（第一部分镜 ↔ Midjourney 提示词）
 
-> 提示词见 [`midjourney-prompts.md`](midjourney-prompts.md)。第二部提示词尚未制作。
+> 场景提示词见 [`midjourney-scenes.md`](midjourney-scenes.md)；角色三视图/表情/动作设定见 [`midjourney-characters.md`](midjourney-characters.md)。第二部提示词尚未制作。
 
 | 镜号 | 段 / 内容 | 对应提示词 |
 | --- | --- | --- |

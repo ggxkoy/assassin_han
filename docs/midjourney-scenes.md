@@ -1,43 +1,14 @@
-# 《刺客信条·传国玉玺》第一部 · Midjourney 提示词（即贴版）
+# 《刺客信条·传国玉玺》第一部 · 场景分镜提示词（Midjourney）
 
-> 配合 `assassins-creed-story.md` 的**第一部**分镜脚本。
-> 服饰按**西汉末年 / 新朝（公元 9 年）**考据：冕服十二旒、曲裾深衣、进贤冠、绶带、短褐麻衣。
+> 配合 `assassins-creed-story.md` 的**第一部**分镜脚本。**角色设定见 `midjourney-characters.md`**（三视图/表情/动作），本档只放场景分镜。
+> 服饰按**西汉末年 / 新朝（公元 9 年）**考据：冕服十二旒、曲裾深衣、进贤冠、绶带、短打劲装。
 > 风格：**刺客信条宣传片（Digic Pictures CGI）**——电影级写实、明暗强对比、体积光、浅景深、冷调留黑配一点猩红/金、飘雪与余烬、慢镜史诗感。
 >
-> 下面每条**已把风格后缀和参数拼好，可直接复制粘贴到 Midjourney**。参数 `--v 6.1` 可按你账号换成最新版本；`--ar 21:9` 横向史诗，人物海报可改 `--ar 2:3`。
+> 下面每条**已把风格后缀和参数拼好，可直接复制粘贴**。`--v 6.1` 可换最新版本；锁人物一致请在各条末尾加 `--cref <角色三视图图链> --cw 90`。
 
 ---
 
-## 一、角色设定（先出人物，便于后续锁一致性）
-
-### 王莽 · 圣殿骑士「统御者」
-```
-full-body cinematic character portrait of Wang Mang, a Chinese Xin-dynasty emperor of 9 AD, about fifty, lean and sharp, intelligent eyes carrying an unsettling all-knowing calm, faint weariness as if he has lived far longer than this body; wearing imperial mianfu coronation regalia — layered black xuan silk robe over a crimson xun lower garment embroidered with the twelve symbolic ornaments in gold thread, wide trailing sleeves, a carved jade belt; a flat rectangular mian crown with twelve strings of jade beads veiling his face; standing on a snow-dusted palace altar, cinematic still in the style of an Assassin's Creed announcement trailer, Digic Pictures photoreal CGI, dramatic chiaroscuro lighting, volumetric god rays, shallow depth of field, anamorphic lens flare, muted desaturated palette of deep blacks and cold greys with a single accent of crimson and gold, falling snow, slow-motion epic atmosphere, fine film grain, ominous and solemn mood --ar 2:3 --style raw --v 6.1
-```
-
-### 王政君 · 孝元太后
-```
-full-body cinematic portrait of Wang Zhengjun, an elderly Chinese Grand Empress Dowager of the Western Han, around eighty, regal and grief-stricken with cold fury in her eyes; wearing layered curved-hem deep robes quju shenyi of deep indigo and dark crimson silk with embroidered borders, an ornate coiffure set with jade and gold hairpins; clutching a black lacquered seal box to her chest; a dim warm palace chamber behind her, cinematic still in the style of an Assassin's Creed announcement trailer, Digic Pictures photoreal CGI, dramatic chiaroscuro lighting, volumetric light, shallow depth of field, muted desaturated palette of deep blacks and cold greys with a single accent of crimson and gold, slow-motion epic atmosphere, fine film grain, ominous and solemn mood --ar 2:3 --style raw --v 6.1
-```
-
-### 王舜 · 安阳侯
-```
-full-body cinematic portrait of Wang Shun, a Han-dynasty marquis and court official of 9 AD, in his forties, stern, cold and loyal; wearing a dark curved-hem official court robe pao with a black jinxian scholar's cap, a silk seal-cord ribbon at the waist and a straight jian sword, cloth-wrapped lamellar armor beneath the robe; holding a bronze oil lantern in a stone prison corridor, cinematic still in the style of an Assassin's Creed announcement trailer, Digic Pictures photoreal CGI, dramatic chiaroscuro lighting, volumetric god rays, shallow depth of field, anamorphic lens flare, muted desaturated palette of deep blacks and cold greys with a single accent of crimson and gold, slow-motion epic atmosphere, fine film grain, ominous and solemn mood --ar 2:3 --style raw --v 6.1
-```
-
-### 杜吴 · 商洛刺客（《史记·刺客列传》一脉）
-```
-full-body cinematic portrait of Du Wu, a Chinese assassin from Shangluo in the tradition of the Shiji "Assassins" (like Jing Ke and Nie Zheng), 9 AD, late twenties, lean and sinewy, a sun-darkened resolute face with the grim calm of a man who has weighed his own death; wearing close-fitting dark hemp short-robe combat garb duanda with a cloth waist sash and bound sleeves and shins, cloth shoes for rooftop agility, no hood, no European armor; gripping a short bronze dagger bishou reversed along his forearm; standing in a snowy alley at night, cinematic still in the style of an Assassin's Creed announcement trailer, Digic Pictures photoreal CGI, dramatic chiaroscuro lighting, volumetric moonlight, shallow depth of field, muted desaturated palette of deep blacks and cold greys with a single accent of crimson, falling snow, slow-motion epic atmosphere, fine film grain, ominous and solemn mood --ar 2:3 --style raw --v 6.1
-```
-
-### 狱卒 · 大牢看守
-```
-full-body cinematic portrait of a Han-dynasty prison jailer, a coarse hardened man in his forties with a cold tempting grin; wearing a dark padded guard's tunic with leather straps and cloth-wrapped shins, a bronze ring of heavy keys at his belt and a single-edged dao blade in hand; standing in torchlight before iron prison bars, cinematic still in the style of an Assassin's Creed announcement trailer, Digic Pictures photoreal CGI, dramatic chiaroscuro lighting, volumetric light, shallow depth of field, muted desaturated palette of deep blacks and cold greys with a single accent of crimson, slow-motion epic atmosphere, fine film grain, ominous and solemn mood --ar 2:3 --style raw --v 6.1
-```
-
----
-
-## 二、第一部分镜 · 场景提示词
+## 第一部分镜 · 场景提示词
 
 ### 段·序｜科技感开场·Animus 数据重建（序-1~4）
 ```
@@ -103,7 +74,7 @@ a cold stone Han-dynasty prison crowded with ragged prisoners behind iron bars, 
 
 ## 用法提示
 
-- **人物一致性**：先用上面 5 个角色设定各出一张满意的，拿到图片 URL 后，在分镜提示词末尾加 `--cref <url> --cw 80`，让王莽/杜吴等在不同镜头里长相一致。
+- **人物一致性**：先到 `midjourney-characters.md` 跑各角色「三视图」，挑满意的拿到图片 URL，在本档分镜提示词末尾加 `--cref <url> --cw 90`，让王莽/杜吴等在不同镜头里长相一致。
 - **先定关键帧**：建议先跑「段四·扑夺玉玺·穿过崩角」和「段二·登坛受贺」，定下整体色调质感，再批量跑其余镜头。
 - **刺客取法《史记·刺客列传》**：杜吴是荆轲、聂政一脉的中国古典刺客，**匕首、短打劲装、轻功**，不要兜帽、袖剑、信仰之跃；可追加 `--no hood, hidden blade, ninja, european assassin`。
 - **防服饰穿越**：若出现清/明式错误（马褂、旗装、补服），在末尾追加 `--no Qing dynasty, Ming dynasty, manchu, fantasy hanfu`。
