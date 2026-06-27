@@ -1,25 +1,30 @@
 # 《刺客信条·传国玉玺》第一部 · 预告片 BGM（Suno）
 
-> 为第一部 ≈2 分 25 秒的预告片 CG 配乐。定位：**汉风民乐 × 刺客信条式预告片配乐**（Jesper Kyd / Lorne Balfe 既视感）——古琴、箫/笛、二胡、琵琶、编钟，叠史诗管弦、低频铜管 braam、战鼓与人声吟唱，随分镜起伏。
+> 为第一部预告片 CG 配乐（**这一版按更长、更有起伏的弧线设计，总长 ≈3 分 45 秒**）。定位：**汉风民乐 × 刺客信条式预告片配乐**（Jesper Kyd / Lorne Balfe 既视感）——古琴、箫/笛、二胡、琵琶、编钟，叠史诗管弦、低频铜管 braam、战鼓与人声吟唱。
+> 这条弧的关键不在"一个高潮"，而在 **三段递进**：掷玺(第一高潮) → **彻底静默** → 王莽超时代之力(全片顶峰) → 刺杀刘秀(收尾小高潮)。
 
-## 一、情绪与结构（对齐分镜时间轴）
+## 一、情绪与结构（按你的音乐弧线 · ≈3′45″）
 
 | 时间 | 对应分镜 | 音乐 |
 | --- | --- | --- |
-| 0:00–0:18 | 段·序 Animus 开场 | 电子微光中浮出一缕**古琴/箫**，神秘空灵；实体化瞬间一记低频 **braam**，古今交汇。 |
-| 0:18–0:55 | 段一/二 登基(明) + 盯梢(暗) | 心跳般的低鼓进入，**二胡**哀婉主题缓缓铺开；明线掺**编钟/雅乐**的庄严，暗线用压低的弦乐悬疑。 |
-| 0:55–1:25 | 段三 + 飞檐走壁 | 节奏收紧，**战鼓(太鼓感)**、急促**琵琶/竹笛**与拨弦，轻功追逐的律动，层层推进。 |
-| 1:25–1:45 | 段四 崩玺·高潮 | 全奏冲到受贺顶点——玉玺落地的「咔」=**爆点后骤然抽空**：一记满堂重击 + 超低频，随即近乎静默，只留一记余音不散的钟/磬。 |
-| 1:45–2:10 | 段五 碎玉/科技 | 余烬般的空寂，一支孤独的**箫/二胡**哀鸣，阴冷、不安。 |
-| 2:10–2:25 | 大牢·悬赏钩子 | 低沉的暗涌渐强，落一记沉鼓，**悬而不决**地收尾，把张力留给第二部（"刘秀"之名）。 |
+| 0:00–1:20 | 序 Animus + 登基(明) + 盯梢(暗) | **压抑**：阴郁、克制、始终压着不爆。长气息的古琴/箫 + 低频脉动 + 幽远人声，沉郁不祥，铺满约一分钟的暗涌。 |
+| 1:20–1:55 | 杜吴现身 · 飞檐走壁 · 战巡逻兵 | **转激烈**：杜吴一出场，战鼓炸开、急促琵琶/竹笛、狂飙拨弦，动作段全速推进。 |
+| 1:55–2:20 | 战斗后 · 索玺铺垫 | **缓和——暴风雨前的宁静**：骤然抽到极简，一缕二胡/箫低鸣，危险的安静。 |
+| 2:20–2:55 | 暖阁 · 太后之怒 | **逐渐上扬**：弦乐与编钟一层层叠加，不断逼向临界点。 |
+| 2:55–3:05 | 王政君掷玺 · 崩玺 | **第一高潮**：全奏轰然炸顶，落在玉碎那一击。 |
+| 3:05–3:10 | 画面一转 | **整个声音消失**——数秒死寂（只留极轻耳鸣/环境）。 |
+| 3:10–3:35 | 王莽得玺 · 渐露不属于这个时代的力量 | **全片顶峰**：自静默中重新升起，合唱 + 管弦 + 电子轰鸣层层堆叠，推到最强、最不祥的顶点（力量觉醒）。 |
+| 3:35–3:50 | 末了 · "刺杀刘秀"浮现 | **收尾小高潮**：顶峰回落后，一记凌厉的暗色重击 / 吟唱点睛，留悬念收束。 |
 
-> 调式与速度：小调/五声偏暗（如 D 小调），基础 ~78–84 BPM，动作段用双倍速织体提速；全曲**不解决**，结在悬念上。
+> 调式与速度：小调/五声偏暗（如 D 小调）。压抑段 ~66–74 BPM 沉缓；动作段提到 ~120–140 BPM（或双倍速织体）；"宁静"段几乎无拍；顶峰段用宽广的慢速大编制 + 电子轰鸣。全曲**不解决**，结在悬念上。
+>
+> ⚠️ 时长提示：这条弧 ≈3′45″，比现有分镜的 2′25″ 更长更慢。若要严丝合缝，建议把分镜按此**重新配速**（掷玺挪到约 2′55″、王莽力量觉醒约 3′10″）——需要的话我可以据此重排分镜时间轴。
 
 ## 二、Suno 风格提示词（Style）
 
 **纯器乐版（开 Instrumental）：**
 ```
-Dark epic cinematic trailer score, traditional Han-Chinese guqin, dizi & xiao flutes, erhu, pipa and bianzhong bronze bells, thunderous taiko war drums, ominous low brass braams, ghostly wordless choir, sub-bass hits, building tension to an explosive climax then a hollow ominous aftermath, Assassin's Creed announcement trailer style, instrumental, 80 BPM, D minor
+Dark epic cinematic trailer score, traditional Han-Chinese guqin, dizi & xiao flutes, erhu, pipa and bianzhong bronze bells, thunderous taiko war drums, ominous low brass braams, ghostly wordless choir, sub-bass hits; a long brooding suppressed opening, a fierce action surge, a calm-before-the-storm lull, a first explosive climax, then TOTAL SILENCE, then rising to an even bigger supernatural final climax, and a dark unresolved coda, Assassin's Creed announcement trailer style, instrumental, D minor
 ```
 
 **带吟唱版（关 Instrumental，用「易水歌」做主题）：**
@@ -29,16 +34,20 @@ Dark epic cinematic trailer score with a haunting solo male chant in ancient Chi
 
 ## 三、Suno 段落结构（填到歌词框，控制起伏）
 
-> 纯器乐也能用这些标签控制结构；括号是给模型的情绪提示。
+> 纯器乐也能用这些标签控制结构；括号是给模型的情绪提示。按你的弧线排：
 
 ```
-[Intro] (eerie digital shimmer, lone guqin emerging, a single low braam)
-[Build] (heartbeat taiko, mournful erhu theme, ceremonial bianzhong bells rising)
-[Pre-Chorus] (fast pipa and dizi, accelerating taiko chase rhythm, tension climbing)
-[Drop] (full orchestral + choir hit at the peak, then sudden near-silence, one ringing bell as the seal shatters)
-[Break] (hollow, a lone xiao flute lament over sub-bass drone)
-[Outro] (dark ominous swell, a final deep war drum, unresolved, fade)
+[Intro] (~80s of brooding, suppressed dread: long-breath guqin and xiao over a low pulse and distant ghostly voices, never bursting)
+[Build] (Du Wu appears — the action ignites: thunderous taiko, frantic pipa and dizi, driving wuxia chase rhythm)
+[Break] (after the fight, the calm before the storm: strip to almost nothing, a single lone erhu over silence, dangerous quiet)
+[Pre-Chorus] (slowly climbing again: strings and bianzhong bells layering, tension pushing toward the edge)
+[Chorus] (FIRST CLIMAX — full orchestra and choir hit as the seal is hurled and shatters)
+[Break - silence] (a hard cut to TOTAL SILENCE, a few seconds of dead air, only faint ringing)
+[Climax] (THE PEAK — rising out of the silence to the loudest, most ominous height: massive choir, orchestra and electronic roar, a supernatural power awakening)
+[Outro] (a final sharp dark hit / chant on the "kill Liu Xiu" reveal, a smaller spike, unresolved, suspended)
 ```
+
+> Suno 不一定能做出真正的"死寂"。`[Break - silence]` 先占位，最稳的做法是生成后在剪辑里手动剪出 2–4 秒静音，再接 `[Climax]`。
 
 ## 四、可选吟唱词 ——《易水歌》（荆轲，贴合史记刺客）
 
@@ -54,7 +63,8 @@ Dark epic cinematic trailer score with a haunting solo male chant in ancient Chi
 ## 五、操作贴士
 
 - **风格框别堆太满**：Suno 风格框偏好精炼，上面的 Style 一段直接贴即可；细节交给段落标签。
-- **要"崩玺骤静"那一下**：在 `[Drop]` 里强调 "then sudden near-silence / one ringing bell"，多生成几版挑那一下做得最干净的。
-- **时长**：Suno 单曲常 2–4 分钟，够覆盖 2'25"；可生成后在剪辑里把高潮点对齐崩玺（约 1:35）。
+- **两处高潮 + 中间死寂是灵魂**：第一高潮(掷玺·约2:55) → 死寂(约3:05) → 全片顶峰(王莽超时代之力·约3:10)。死寂多半要靠剪辑手剪 2–4 秒，再让顶峰从静默里轰然升起，反差才够。
+- **时长**：这版弧 ≈3′45″。Suno v4.5+ 单曲可达 ~8 分钟，足够；若用较短版本，可分两段生成（前半"压抑→掷玺高潮"，后半"静默→顶峰→刘秀小高潮"）再拼。
+- **顶峰要比第一高潮更大**：王莽力量觉醒处才是全片最强点——`[Climax]` 里强调 "even bigger / loudest / supernatural power awakening"，避免被掷玺那下盖过。
 - **两版都跑**：纯器乐版做满铺底，带吟唱版在序章 / 大牢钩子处叠人声点睛，二选一或混用。
 - **想更"刺客信条"**：风格里可加 `Jesper Kyd vibe, ethnic vocal ostinato, hybrid orchestral`；想更"东方武侠"可加 `wuxia film score, guzheng tremolo`。
