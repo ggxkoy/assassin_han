@@ -8,7 +8,8 @@
 
 | 文件 | 内容 |
 | --- | --- |
-| [`docs/assassins-creed-story.md`](docs/assassins-creed-story.md) | 主文档：世界观、人物，**第一部·玉玺**与**第二部·刺杀刘秀**的分镜脚本，及后续规划。 |
+| [`docs/story-full.md`](docs/story-full.md) | **剧情全文（文本故事）**：把分镜整理成的连贯叙事，适合通读。 |
+| [`docs/assassins-creed-story.md`](docs/assassins-creed-story.md) | 分镜脚本：世界观、人物，**第一部·玉玺**与**第二部·刺杀刘秀**，及后续规划。 |
 | [`docs/midjourney-characters.md`](docs/midjourney-characters.md) | 角色设定：王莽/王政君/王舜/杜吴/狱卒的 **三视图 + 表情设定 + 动作设定**（Midjourney）。 |
 | [`docs/midjourney-scenes.md`](docs/midjourney-scenes.md) | 第一部逐场景分镜的 Midjourney 即贴提示词，刺客信条宣传片风格、西汉/新朝服饰考据。 |
 | [`docs/suno-bgm.md`](docs/suno-bgm.md) | 第一部预告片 BGM 的 Suno 提示词与配乐结构（汉风民乐 × 刺客信条式预告片配乐）。 |
